@@ -11,7 +11,7 @@ Before setting up the application, you'll need:
    - Developer token from Google Ads API Center
    - OAuth2 client ID and client secret
    - Refresh token
-   - Login customer ID (manager account ID)
+   - Login customer ID (manager account ID).
 
 2. OpenAI API key with access to the o3 or o4-mini reasoning models
 
